@@ -12,3 +12,6 @@ https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/  (Libsvm)
  4) The MlFCM is contained in the file " multilayerFCM.m";
  5) The variable optimization in LGSCM is cotained in the file "HSIC_MC";
  6) The classifier C4.5 is contained in the file "Use_C4_5.m".
+
+The file "robust" contains the data with noise and label with noise, which is for the robust analysis for the methods
+The file "DL" contains the compared deep learning based imbalanced methods
